@@ -1,1 +1,0 @@
-print('código en python')
